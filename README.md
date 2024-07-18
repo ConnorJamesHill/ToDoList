@@ -3,10 +3,8 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Contact](#contact)
 - [Technologies Used](#technologies-used)
 
